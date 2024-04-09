@@ -6,7 +6,7 @@
 
   ## **Sobre** 😎
 
-  Apaixonada por tecnologia, sempre estou em busca de novos desafios e compartilhar conhecimento.
+  Apaixonada por tecnologia, estou sempre em busca de novos desafios e compartilhar conhecimento.
 
 
   ## **Languages and Tools** 👾
