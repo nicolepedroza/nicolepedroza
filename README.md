@@ -29,6 +29,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a align="center" href="https://drive.google.com/file/d/1k0BXCgBrcKbXrASRVyJC4OkZfHKjOKq7/view?usp=sharing">📃 Currículo 📃</a>
+  <a align="center" href="https://drive.google.com/file/d/1yM3wBjJQjPNkVhs93i6bFsz-Ye6h5IXK/view?usp=sharing">📃 Currículo 📃</a>
 
 </div>
